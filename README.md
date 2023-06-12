@@ -47,8 +47,8 @@ Data is taken from [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013),
 - The dataset consisted of 7 classes: angry, disgust, fear, happy, neutral, sad, surprise
 
 
-[Class Dist FER2013](https://github.com/annabchox/facial_emotion_detector/assets/112204360/2f8dcfdb-5ceb-498c-b2d4-cfe5094e77ef)
- FER2013.jpg)
+![Class Dist FER2013](https://github.com/annabchox/Facial_emotion_Detect/assets/112204360/085cd9dd-1904-49d6-94dd-970115351f30)
+
 
 
 Additional data was acquired from [AffectNet](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data), which is a subset off data from an open-source dataset used in the paper "Landmark Guidance Independent Spatio-channel Attention and Complementary Context Information based Facial Expression Recognition" by Gera, Darshan et al. 
